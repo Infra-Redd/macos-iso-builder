@@ -1,4 +1,4 @@
-name: Sequoia - Build Full Installer ISO/DMG image
+name: Build Full Installer ISO/DMG image
 
 on:
   workflow_dispatch:
